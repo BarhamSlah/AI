@@ -19,3 +19,8 @@ There is a lot of point that demonstrate how talk to AI
 Normal Prompt: [پڕۆمپتە ئاساییەکەت لێرە دابنێ]"
 
 
+**************************************************************************************************************************
+
+When you want to ask an AI for something, but you don't have the necessary information, the AI should ask you questions itself about what you want until it has the required information
+
+**************************************************************************************************************************
