@@ -11,3 +11,11 @@ There is a lot of point that demonstrate how talk to AI
 5- Task // What should you do (create project , find error , design web , .....etc)
 
 6 Example // give an example to strong your prompt 
+
+*************************************************************************************************************************
+
+ after create Normal Prompt by following 6 point we convert it  to Json Prompt by copy this 
+"Act as a Prompt Architect. Transform the following text into a high-precision JSON Prompt for maximum AI accuracy.
+Normal Prompt: [پڕۆمپتە ئاساییەکەت لێرە دابنێ]"
+
+
