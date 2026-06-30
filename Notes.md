@@ -10,9 +10,13 @@ There is a lot of point that demonstrate how talk to AI
 
 5- Task // What should you do (create project , find error , design web , .....etc)
 
-6 - Chain of thoughts // AI going to in deep detail
+6 Example // give an example to strong your prompt 
 
-7 Example // give an example to strong your prompt 
+// till here you should write all 6 point for all prompt 
+
+7 - Chain of thoughts // AI going to in deep detail
+
+8 - grounding // limited by select source afterthat AI will talk about the topic based on the source not something else
 
 *************************************************************************************************************************
 
