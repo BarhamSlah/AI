@@ -22,7 +22,7 @@ There is a lot of point that demonstrate how talk to AI
 
  after create Normal Prompt by following 6 point we convert it  to Json Prompt by copy this 
 "Act as a Prompt Architect. Transform the following text into a high-precision JSON Prompt for maximum AI accuracy.
-Normal Prompt: [پڕۆمپتە ئاساییەکەت لێرە دابنێ]"
+Normal Prompt: [put you normal prompt down here ]"
 
 
 **************************************************************************************************************************
@@ -30,3 +30,8 @@ Normal Prompt: [پڕۆمپتە ئاساییەکەت لێرە دابنێ]"
 When you want to ask an AI for something, but you don't have the necessary information, the AI should ask you questions itself about what you want until it has the required information
 
 **************************************************************************************************************************
+
+for daily question you just upload AI.json here 
+
+**************************************************************************************************************************
+
